@@ -1,0 +1,11 @@
+ICHA TÉCNICA DE EJECUCIÓN
+Fecha de ejecución: 2025-05-30 15:24:03
+Sistema operativo: Windows 11
+Python versión: 3.12.1
+Pandas versión: 2.2.3
+yfinance versión: 0.2.61
+Ubicación de la base de datos: balances.db
+
+Tiempo total de ejecución: 10.12 segundos
+Balances actualizados: 22
+Errores: 0
